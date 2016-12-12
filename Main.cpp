@@ -2,7 +2,7 @@
 #include "Ball.h"
 #include "Slab.h"
 #include <ncurses.h>
-#include <cstdlib> 
+#include <cstdlib>
 
 int slabspositions(int);
 void modifyboard(int, int, Board *, Ball *, Slab *);
